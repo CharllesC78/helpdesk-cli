@@ -20,9 +20,7 @@ Alla oleva vuokaavio kuvaa ohjelman pääsilmukan ja aliohjelmien toimintalogiik
 
 ## Käynnistysohje
 
-1. Varmista, että koneellesi on asennettu **Python 3** (voit tarkistaa tämän komennolla `python --version`).
-2. Kloonaa tämä arkisto (repository) omalle koneellesi tai lataa `helpdesk.py`-tiedosto:
-   ```bash
+
    git clone [https://github.com/CharllesC78.git](https://github.com/CharllesC78/helpdesk-cli.git)
    cd helpdesk-cli
 
