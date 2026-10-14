@@ -24,3 +24,6 @@ Alla oleva vuokaavio kuvaa ohjelman pääsilmukan ja aliohjelmien toimintalogiik
    ```bash
    git clone [https://github.com/CharllesC78.git](https://github.com/CharllesC78/helpdesk-cli.git)
    cd helpdesk-cli
+
+   <img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/7577fa52-21ef-49f3-b2b4-dc3bb25cadd4" />
+
