@@ -16,7 +16,7 @@ Ohjelma on toteutettu Pythonilla hyödyntäen modulaarista rakennetta:
 Alla oleva vuokaavio kuvaa ohjelman pääsilmukan ja aliohjelmien toimintalogiikan:
 
 <img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/7577fa52-21ef-49f3-b2b4-dc3bb25cadd4" />
-![Ohjelman vuokaavio](vuokaavio.png)
+
 
 ## Käynnistysohje
 
